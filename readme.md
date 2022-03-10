@@ -2,6 +2,7 @@
 
 Upload files to the permaweb. Pay once, store forever. 
 <br>
+
 To calculate fees based on file size, check out: [Arweave Fee Calculator](https://55mcexhgg4xql3l6xy4aoz2dzm23zghryqakakwtagj5djcm.arweave.net/71giX-OY-3LwXtfr44B2dDyzW8mPHEAKA-q0wGT0aRM)
 
 > Files < 250KB: **0.000061137561 AR** (fixed)
