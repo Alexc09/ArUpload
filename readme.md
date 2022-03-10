@@ -1,12 +1,14 @@
 # ArUpload - Arweave File Uploader
 
 Upload files to the permaweb. Pay once, store forever. 
-
+<br>
 To calculate fees based on file size, check out: [Arweave Fee Calculator](https://55mcexhgg4xql3l6xy4aoz2dzm23zghryqakakwtagj5djcm.arweave.net/71giX-OY-3LwXtfr44B2dDyzW8mPHEAKA-q0wGT0aRM)
 
 > Files < 250KB: **0.000061137561 AR** (fixed)
 >
 > 0.000061 AR = $0.00183 (US$30/AR)
+<br>
+Use Arweave Block Explorer to view transaction history: https://viewblock.io/arweave
 
 
 
@@ -55,7 +57,7 @@ Console output should look as such:
 
 ![image-20220310170216525](Assets/output.jpg)
 
-URL to the uploaded file is at the last line
+URL to the uploaded file is at the last line.
 
 
 
